@@ -21,8 +21,9 @@ let state;
 // Boolean => true/false
 // null => standalone value ye ek object h ##interview question
 // undefind =>   undefind ek undefind hi hai ##interview question
-// Symbol => unique 
+// Symbol => unique ke liye use krte hai
 
 // Object
 
-console.log(typeof undefined);
+console.log(typeof undefined); //undefind
+console.log(typeof null); //object
